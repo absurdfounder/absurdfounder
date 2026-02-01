@@ -26,7 +26,7 @@
 ## What I'm Doing
 
 - **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [absurdfounder.me](https://absurdfounder.me)
+- **Writing about AI workflows** - Sharing my learnings on [vaibhavkalra.com](https://vaibhavkalra.com)
 - **Rapid prototyping** - Full apps in days, not months
 - **[Speaking at conferences](https://github.com/absurdfounder/speaking)** - On vibe coding vs agentic engineering and the future of development
 
@@ -41,11 +41,6 @@
 [![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absurdfounder)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/absurdfounder)
 
-
-
-### Model Status
-
-- **What model is Peter using?** Check the live blurb at [whatmodelispeterusing.com](https://whatmodelispeterusing.com)
 
 ### Philosophy
 
