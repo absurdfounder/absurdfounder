@@ -36,8 +36,8 @@
 
 [![Twitter](https://img.shields.io/badge/-@absurdfounder-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/absurdfounder)
 [![Mastodon](https://img.shields.io/badge/-@absurdfounder-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@absurdfounder)
-[![Bluesky](https://img.shields.io/badge/-absurdfounder.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/absurdfounde)
-[![Blog](https://img.shields.io/badge/-absurdfounder.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://absurdfounder.me)
+[![Bluesky](https://img.shields.io/badge/-absurdfounder-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/absurdfounder)
+[![Blog](https://img.shields.io/badge/-absurdfounder-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://vaibhavkalra.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/absurdfounder)
 
 
