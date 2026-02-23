@@ -17,6 +17,7 @@
 
 🍭 **[wonderdesk.ai](https://wonderdesk.ai/)** (closed source) – Full autonomus AI-Agent managing Helpdesk, Blogs & Changelogs for Teams.
 
+🦀 **[crabshq.com](https://crabshq.com/)** (closed source) – AGI is here - Deploy full AI Workforce in your Company.
 
 
 ## GitHub Activity
