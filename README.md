@@ -22,7 +22,9 @@
 
 ## GitHub Activity
 
-[![GitHub Commits](https://img.shields.io/badge/GitHub%20commits-46k+-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/search?type=commits&q=author%3Aabsurdfounder)
+<a href="https://github.com/search?type=commits&q=author%3Aabsurdfounder">
+  <img src="https://img.shields.io/badge/GitHub%20commits-46k+-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub commits" height="56">
+</a>
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/absurdfounder)
 
