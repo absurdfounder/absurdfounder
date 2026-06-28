@@ -22,6 +22,8 @@
 
 ## GitHub Activity
 
+[![GitHub Commits](https://img.shields.io/badge/GitHub%20commits-46k+-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/search?type=commits&q=author%3Aabsurdfounder)
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/absurdfounder)
 
 ## What I'm Doing
