@@ -15,9 +15,12 @@
 
 > Deep in engineering mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping, the modern web feels like a breath of fresh air.
 
+🪖 **[trooper.so](https://trooper.so/)** (open source) – AGI is here - Deploy full AI Workforce in your Company.
+
 🍭 **[wonderdesk.ai](https://wonderdesk.ai/)** (closed source) – Full autonomus AI-Agent managing Helpdesk, Blogs & Changelogs for Teams.
 
-🪖 **[trooper.so](https://trooper.so/)** (open source) – AGI is here - Deploy full AI Workforce in your Company.
+🍭 **[state.mx](https://state.mx/)** (closed source) – Full autonomus AI-Agent managing Helpdesk, Blogs & Changelogs for Teams.
+
 
 
 ## GitHub Activity
