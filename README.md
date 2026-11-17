@@ -19,7 +19,7 @@
 
 🍭 **[wonderdesk.ai](https://wonderdesk.ai/)** (closed source) – Full autonomus AI-Agent managing Helpdesk, Blogs & Changelogs for Teams.
 
-🍭 **[state.mx](https://state.mx/)** (closed source) – Full autonomus AI-Agent managing Helpdesk, Blogs & Changelogs for Teams.
+🍭 **[state.mx](https://state.mx/)** (closed source) – The infinite AI-native filesystem get Instant access to terabytes of data on any computer, using zero disk space.
 
 
 
